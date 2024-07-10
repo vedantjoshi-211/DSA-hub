@@ -1,5 +1,6 @@
 <h1>Data Structures and Algorithms (DSA)</h1>
     <br>
+    ![dsa banner](https://github.com/vedantjoshi-211/DSA-hub/assets/174167225/1e9bd428-50db-4c16-947a-574c8804d30a)
     <h1>What is DSA?</h1>
         <p>
             <strong>Data Structures:</strong> These are specialized formats for organizing, processing, retrieving, and storing data. Efficient data structures are key to designing efficient algorithms. They provide a means to manage large amounts of data for various operations such as searching, sorting, and modifying data.
