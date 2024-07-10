@@ -1,5 +1,8 @@
-![dsa banner](https://github.com/vedantjoshi-211/DSA-hub/assets/174167225/17f6cb95-ef9b-4db6-b4fa-de2f77a4633b)
+<div align="center">
+    <h5>july 2024</h5>
+</div>
 
+![dsa banner](https://github.com/vedantjoshi-211/DSA-hub/assets/174167225/17f6cb95-ef9b-4db6-b4fa-de2f77a4633b)
 <h1>Data Structures and Algorithms (DSA)</h1>
     <br>
     <h1>What is DSA?</h1>
