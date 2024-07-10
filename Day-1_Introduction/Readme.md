@@ -1,4 +1,3 @@
-# output 
 ![dsa banner](https://github.com/vedantjoshi-211/DSA-hub/assets/174167225/17f6cb95-ef9b-4db6-b4fa-de2f77a4633b)
 
 <h1>Data Structures and Algorithms (DSA)</h1>
