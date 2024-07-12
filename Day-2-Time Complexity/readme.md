@@ -42,11 +42,11 @@
       <h2>(1) Ignore constant factors. </h2> <br>For example, 3n + 2 becomes n.
       <h2> (2) After ignoring constants, choose the term with the highest growth rate. </h2> <br>example, 2n^3 + 3n^2 + 2n becomes n^3 (because n^3 grows faster than n^2 and n as the input size increases).</li>
     </ol>
+    <h1> Example (Hand written) </h1>
+    <a href="https://drive.google.com/file/d/1znwQ_-lzn4nbqQmZS5vRq4Q_r1fMwc3b/view?usp=drive_link">here are all exaples</a>
     <h1>Time Complexity Practice Problems</h1>
     <p>This repository contains a collection of practice problems to help understand and analyze the time complexity of various code snippets.</p>
-    
     <h2>Problems and Time Complexities</h2>
-    
     <h3>1. Code:</h3>
     <pre>
 for(int i=1; i&lt;=n*n; i++) 
