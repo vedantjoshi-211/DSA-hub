@@ -1,13 +1,9 @@
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>2D Arrays in C++ - README</title>
-</head>
-<body>
-    <h1>2D Arrays in Data Structures and Algorithms (DSA) using C++</h1>
+![day6](https://github.com/user-attachments/assets/ddacf2e6-c5bb-4ec6-b5a4-027db3fbb45d)
+
+
+
+<h1>2D Arrays in Data Structures and Algorithms (DSA) using C++</h1>
     <p>In data structures and algorithms (DSA), a 2D array is a fundamental concept that extends the idea of a one-dimensional array. A 2D array can be thought of as a grid or a table, consisting of rows and columns, where each element is accessed using two indices. This structure is particularly useful for representing matrices, game boards, images, and other grid-based data.</p>
 
   <h2>Definition and Declaration</h2>
@@ -66,6 +62,5 @@
         <li>Fixed size: The size of a 2D array must be known at compile-time and cannot be changed dynamically.</li>
         <li>Memory consumption: Large 2D arrays can consume a significant amount of memory.</li>
   </ul>
-</body>
-</html>
-****
+<h3>HANDWRITTEN NOTES</h3>
+<a href = "https://drive.google.com/file/d/19caUgOnQyzLYBiTMdA9UBrgrGd07atMm/view?usp=sharing"> NOTES </a>
